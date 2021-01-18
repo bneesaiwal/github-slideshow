@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+The weapons of man are nothing
 Use the left arrow to go back!
